@@ -1,15 +1,17 @@
 # DSA-CAPSTONE-PROJECT
 My project work in assessing my digital skill in Microsoft Power BI.
 
-# PROJECT TOPIC: Palmora Group HR Analysis
+# Project Topic: Palmora Group HR Analysis
 
-## PROJECT OVERVIEW:
+## Project Overview:
 The Data Analysis Project aims to analyse the company data and generate insights that the Palmora management team would need to address.
 
-## DATA SOURCE:
+## Data Source:
 The primary data source used here is Palmoria Group emp-data.csv and this is an open source data that can be freely downloaded from an open source online such as FRED or kaggle or from any other data repository site .
 
-## TOOLS USED:
--MS Excel (Download here)
-- -For data collection
-- -For data cleaning
+## Tools Used:
+-MS Excel for Data Cleaning ({Download here} www.microsoft.com)
+- For Data Collection
+- For Data Cleaning
+-  -For Data Manipulation
+-  -For Data Munching
