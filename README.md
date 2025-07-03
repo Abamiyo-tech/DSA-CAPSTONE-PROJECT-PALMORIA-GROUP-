@@ -11,6 +11,7 @@ The primary data source used here is Palmoria Group emp-data.csv and this is an 
 
 ## Tools Used:
 -Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494) ( For creating a report)
+
 -SQL Server(For Querying and Analysis)
 
 -MS Powerpoint (For presentation)
