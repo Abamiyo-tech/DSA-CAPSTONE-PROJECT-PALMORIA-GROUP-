@@ -10,10 +10,14 @@ The Data Analysis Project aims to analyse the company data and generate insights
 The primary data source used here is Palmoria Group emp-data.csv and this is an open source data that can be freely downloaded from an open source online such as FRED or kaggle or from any other data repository site .
 
 ## Tools Used:
+-Power Bi [Download here](https://www.microsoft.com) ( For creating a report)
+
+-MS Powerpoint (For presentation)
+
 -MS Excel for Data Cleaning [Download here](https://www.microsoft.com)
 - For Data Collection
 - For Data Cleaning
   1. For Data Manipulation
   2. For Data Munching
- 
-- Power BI (For reporting)
+    
+
