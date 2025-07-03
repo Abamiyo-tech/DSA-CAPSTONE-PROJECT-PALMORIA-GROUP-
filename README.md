@@ -14,7 +14,7 @@ The primary data source used here is Palmoria Group emp-data.csv and this is an 
 
 -SQL Server(For Querying and Analysis)
 
--MS Powerpoint (For presentation)
+-MS Powerpoint (For Presentation)
 
 -MS Excel for Data Cleaning [Download here](https://www.microsoft.com)
 - For Data Collection
