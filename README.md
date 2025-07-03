@@ -13,5 +13,7 @@ The primary data source used here is Palmoria Group emp-data.csv and this is an 
 -MS Excel for Data Cleaning [Download here](https://www.microsoft.com)
 - For Data Collection
 - For Data Cleaning
-   1For Data Manipulation
-    2For Data Munching
+  1. For Data Manipulation
+  2. For Data Munching
+ 
+- Power BI (For reporting)
