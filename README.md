@@ -80,23 +80,23 @@ departments?
   
 
 2. Show insights on ratings based on gender:
--  Male: 49%
--  Female: 46%
--  No gender: 4%
+ -  Male: 49%
+ -  Female: 46%
+ -  No gender: 4%
       
 3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
 there is, identify the department and regions that should be the focus of
 management
 4. A recent regulation was adopted which requires manufacturing companies to pay
 employees a minimum of $90,000
-● Does Palmoria meet this requirement?
+● Does Palmoria meet this requirement? No, it does not because some of the employees receives below $90,000.
 ● Show the pay distribution of employees grouped by a band of $10,000. For example:
 ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000,
 etc.?
-● Also visualize this by regions
-Case Questions
-5. Mr Gamma thought to himself that since you were already working on the employee
-data, you could help out with allocating the annual bonus pay to employees based on the
+
+ This was also visualized by regions
+
+
 
 ## Data Analysis
 
