@@ -80,10 +80,10 @@ departments?
   
 
 2. Show insights on ratings based on gender:
- -  Male: 49%
- -  Female: 46%
- -  No gender: 4%
- -  
+  -  Male: 49%
+  -  Female: 46%
+  -  No gender: 4%
+    
       
 3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
 there is, identify the department and regions that should be the focus of
