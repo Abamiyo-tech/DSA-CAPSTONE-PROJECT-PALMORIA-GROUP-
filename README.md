@@ -36,35 +36,53 @@ In the initial phase of the data cleaning and preparations, the following action
 1. What is the gender distribution in the organization? Distil to regions and
 departments?
  - Gender Distribution:
-   1.Male: 465
    
-   2.Female: 441
+   i.Male: 465
    
-   3.No gender: 40
+   ii.Female: 441
+   
+   iii.No gender: 40
 
 - Regions/Locations: Total employee in each location
--  -Kaduna: 361 
--  -Abuja: 335
--  -Lagos: 250
+  
+   i.Kaduna: 361
+   
+   ii.Abuja: 335
+
+   iii.Lagos: 250
 
 - Departments: Total employee in each department
--  -Legal: 88
--  -Product Management: 89
--  -Human Resource: 82
--  -Services: 82
--  -Support: 81
--  -Business Development: 81
--  -Sales: 80
--  -Engineering: 80
--  -Training: 77
--  -Research and Development: 74
--  -Accounting: 67
--  -Marketing: 65
+  
+   
+   i.Product Management: 89
+
+   ii.Human Resource: 82
+  
+   iii.Services: 82
+
+   iv.Support: 81
+
+   v.Business Development: 81
+  
+   vi.Sales: 80
+  
+   vii.Engineering: 80
+  
+   viii.Training: 77
+  
+   ix.Research and Development: 74
+
+   x.Accounting: 67
+  
+   xi.Marketing: 65
+  
+   xii.Legal: 88
+  
 
 2. Show insights on ratings based on gender:
-- Male: 49%
-- Female: 46%
-- No gender: 4%
+-  Male: 49%
+-  Female: 46%
+-  No gender: 4%
       
 3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
 there is, identify the department and regions that should be the focus of
