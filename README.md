@@ -45,38 +45,38 @@ departments?
 
 - Regions/Locations: Total employee in each location
   
-   i.Kaduna: 361
+    i. Kaduna: 361
    
-   ii.Abuja: 335
+    ii. Abuja: 335
 
-   iii.Lagos: 250
+    iii. Lagos: 250
 
 - Departments: Total employee in each department
   
    
-   i.Product Management: 89
+    i. Product Management: 89
 
-   ii.Human Resource: 82
+    ii. Human Resource: 82
   
-   iii.Services: 82
+    iii. Services: 82
 
-   iv.Support: 81
+    iv. Support: 81
 
-   v.Business Development: 81
+    v. Business Development: 81
   
-   vi.Sales: 80
+    vi. Sales: 80
   
-   vii.Engineering: 80
+    vii. Engineering: 80
   
-   viii.Training: 77
+    viii. Training: 77
   
-   ix.Research and Development: 74
+    ix. Research and Development: 74
 
-   x.Accounting: 67
+    x. Accounting: 67
   
-   xi.Marketing: 65
+    xi. Marketing: 65
   
-   xii.Legal: 88
+    xii. Legal: 88
   
 
 2. Show insights on ratings based on gender:
