@@ -1,4 +1,5 @@
-[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21054322/Palmoria.Group.emp-data.csv)# DSA-CAPSTONE-PROJECT
+[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21054322/Palmoria.Group.emp-data.csv) 
+# DSA-CAPSTONE-PROJECT
 My project work in assessing my digital skill in Microsoft Power BI.
 
 # Project Topic: Palmoria Group HR Analysis
