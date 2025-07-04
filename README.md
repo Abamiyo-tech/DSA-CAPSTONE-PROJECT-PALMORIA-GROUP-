@@ -26,8 +26,8 @@ The primary data source used here is Palmoria Group emp-data.csv and Palmoria Gr
  ## Data Cleaning and Preparation:
 In the initial phase of the data cleaning and preparations, the following actions were performed. 
 - Data loading and inspection
-- Handling missing variables; On gender Column, undisclosed gender was replaced by a generic gender stats 'No gender'.
-- Data Cleaning and formatting; Employees with no salary and department were taken out.
+- Handling missing variables; On gender Column, undisclosed gender was replaced by a generic gender status 'No gender'.
+- Data Cleaning and formatting; On Salary and Department columns, Employees with no salary and department were taken out.
 
 ## Exploratory Data Analysis:
 Exploratory Data Analysis involves the exploring of the data to answer questions like;
