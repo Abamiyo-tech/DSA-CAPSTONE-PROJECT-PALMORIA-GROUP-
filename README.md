@@ -15,7 +15,7 @@ The primary data source used here is Palmoria Group emp-data.csv and Palmoria Gr
 
 -Text/CSV (For Querying and Analysis)
 
--Excel Workbook (For Querying qnd Analysis)
+-Excel Workbook (For Querying and Analysis)
 
 -MS Powerpoint (For Presentation)
 
