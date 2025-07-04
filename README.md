@@ -47,6 +47,7 @@ departments?
 
 - Departments: Total employee in each department
 -  -Legal: 88
+-  -Product Management: 89
 -  -Human Resource: 82
 -  -Services: 82
 -  -Support: 81
