@@ -33,12 +33,12 @@ In the initial phase of the data cleaning and preparations, the following action
 
 ## Exploratory Data Analysis:
 
-What is the gender distribution in the organization? Distil to regions and
+1. What is the gender distribution in the organization? Distil to regions and
 departments?
-- Gender Distribution:
--  -Male: 465
--  -Female: 441
--  -No gender: 40
+ - Gender Distribution:
+  - 1.Male: 465
+  -2.Female: 441
+  -3.No gender: 40
 
 - Regions/Locations: Total employee in each location
 -  -Kaduna: 361 
