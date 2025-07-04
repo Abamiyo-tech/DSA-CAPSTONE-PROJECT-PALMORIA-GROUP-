@@ -94,7 +94,7 @@ management:
 Based on the value distribution of the salary column there is no gender pay gap, employees are payed based on assigned roles and not gender.
 
 4. A recent regulation was adopted which requires manufacturing companies to pay
-employees a minimum of $90,000. Does Palmoria meet this requirement? No, it does not meet the requirement because some of the employees receives below $90,000.
+employees a minimum of $90,000. Does Palmoria meet this requirement? No, it does not meet the requirement because some of the employees received below $90,000.
 
 5. Show the pay distribution of employees grouped by a band of $10,000. For example:
 
