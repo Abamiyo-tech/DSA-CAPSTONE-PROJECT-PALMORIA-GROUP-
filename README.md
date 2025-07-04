@@ -10,7 +10,7 @@ The Data Analysis Project aims to analyse the company data and generate insights
 The primary data source used here is Palmoria Group emp-data.csv and Palmoria Group Bonus Rules.xlsx this is an open source data that can be freely downloaded from an open source online or from any other data repository site . Attention was paid to the extension of the file while getting it from the data source.
 
 ## Tools Used:
--Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494) ( For creating a report)
+-Microsoft Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494) ( For creating a report)
 
 -SQL Server(For Querying and Analysis)
 
@@ -23,5 +23,16 @@ The primary data source used here is Palmoria Group emp-data.csv and Palmoria Gr
   2. For Data Munching
  
  ## Data Cleaning and Preparation:
-In the initial phase of the data cleaning and preparations, the following actions were performed. Data loading and inspection, handling missing variables, Data Cleaning and formatting
+In the initial phase of the data cleaning and preparations, the following actions were performed. 
+- 1.Data loading and inspection
+- 2.Handling missing variables
+- 3.Data Cleaning and formatting
+
+## Exploratory Data Analysis:
+Exploratory Data Analysis involves the exploring of the data to answer questions;
+- Calculate the amount to be paid as a bonus to individual employees
+- Calculate the total amount to be paid to individual employees (salary inclusive of
+bonus)
+- Total amount to be paid out per region and company-wide
+
 
