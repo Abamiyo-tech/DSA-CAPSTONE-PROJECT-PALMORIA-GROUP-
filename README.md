@@ -31,7 +31,7 @@ In the initial phase of the data cleaning and preparations, the following action
 - Handling missing variables; On gender Column, undisclosed gender was replaced by a generic gender status 'No gender'.
 - Data Cleaning and formatting; On Salary and Department columns, Employees with no salary and department were taken out.
 
-## Exploratory Data Analysis:
+## Exploratory Data Analysis (EDA):
 
 1. What is the gender distribution in the organization? Distil to regions and
 departments?
@@ -88,7 +88,7 @@ departments?
     -No gender: 4%
     
       
-4. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
 there is, identify the department and regions that should be the focus of
 management:
 Based on the value distribution of the salary column there is no gender pay gap, employees are payed based on assigned roles and not gender.
@@ -105,7 +105,7 @@ etc.?
 
 
 
-## Data Analysis
+### Data Analysis
 
 
 
