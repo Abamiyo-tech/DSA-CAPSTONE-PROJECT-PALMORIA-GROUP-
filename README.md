@@ -86,7 +86,8 @@ departments?
       
 3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
 there is, identify the department and regions that should be the focus of
-management
+management:
+i think there is no gender pay gap, employees are payed based on assigned roles and not gender.
 
 5. A recent regulation was adopted which requires manufacturing companies to pay
 employees a minimum of $90,000
