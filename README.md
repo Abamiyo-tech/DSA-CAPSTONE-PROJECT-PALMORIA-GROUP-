@@ -37,11 +37,11 @@ In the initial phase of the data cleaning and preparations, the following action
 departments?
  - Gender Distribution:
    
-   i. Male: 465
+    i. Male: 465
    
-   ii. Female: 441
+    ii. Female: 441
    
-   iii. No gender: 40
+    iii. No gender: 40
 
 - Regions/Locations: Total employee in each location
   
