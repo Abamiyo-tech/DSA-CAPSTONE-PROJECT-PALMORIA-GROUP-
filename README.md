@@ -36,9 +36,9 @@ In the initial phase of the data cleaning and preparations, the following action
 1. What is the gender distribution in the organization? Distil to regions and
 departments?
  - Gender Distribution:
-  - 1.Male: 465
-  -2.Female: 441
-  -3.No gender: 40
+   1.Male: 465
+   2.Female: 441
+   3.No gender: 40
 
 - Regions/Locations: Total employee in each location
 -  -Kaduna: 361 
