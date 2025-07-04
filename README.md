@@ -23,7 +23,7 @@ The primary data source used here is Palmoria Group emp-data.csv and Palmoria Gr
   1. For Data Manipulation
   2. For Data Munching
  
- ## Data Cleaning and Preparation:
+## Data Cleaning and Preparation:
 In the initial phase of the data cleaning and preparations, the following actions were performed. 
 - Data loading and inspection
 - Handling missing variables; On gender Column, undisclosed gender was replaced by a generic gender status 'No gender'.
