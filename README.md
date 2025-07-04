@@ -13,7 +13,9 @@ The primary data source used here is Palmoria Group emp-data.csv and Palmoria Gr
 ## Tools Used:
 -Microsoft Power BI [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494) ( For creating a report)
 
--SQL Server(For Querying and Analysis)
+-Text/CSV (For Querying and Analysis)
+
+-Excel Workbook (For Querying qnd Analysis)
 
 -MS Powerpoint (For Presentation)
 
@@ -25,7 +27,7 @@ The primary data source used here is Palmoria Group emp-data.csv and Palmoria Gr
  
 ## Data Cleaning and Preparation:
 In the initial phase of the data cleaning and preparations, the following actions were performed. 
-- Data loading and inspection
+- Data loading and inspection; The company's data was uploaded and inspected to transform
 - Handling missing variables; On gender Column, undisclosed gender was replaced by a generic gender status 'No gender'.
 - Data Cleaning and formatting; On Salary and Department columns, Employees with no salary and department were taken out.
 
