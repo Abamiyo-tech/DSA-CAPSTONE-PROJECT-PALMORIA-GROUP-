@@ -54,36 +54,32 @@ departments?
     iii. No gender: 40
 
 (b.) Use a slicer to filter by region/department
-- Regions/Locations: Total employee in each location
-  
-    
 
-- Departments: Total employee in each department
+- Regions/Departments: (No gender, Male, Female)
   
-   
-    i. Product Management: 89
+   i. Product Management: 89 (No gender-1, Male-47, Female-41)
 
-    ii. Human Resource: 82
+   ii. Human Resource: 82 (No gender-3, Male-38, Female-41)
   
-    iii. Services: 82
+   iii. Services: 82
 
-    iv. Support: 81
+   iv. Support: 81
 
-    v. Business Development: 81
+   v. Business Development: 81
   
-    vi. Sales: 80
+   vi. Sales: 80
   
-    vii. Engineering: 80
+   vii. Engineering: 80
   
-    viii. Training: 77
+   viii. Training: 77
   
-    ix. Research and Development: 74
+   ix. Research and Development: 74
 
-    x. Accounting: 67
+   x. Accounting: 67
   
-    xi. Marketing: 65
+   xi. Marketing: 65
   
-    xii. Legal: 88
+   xii. Legal: 88
   
 
 2. Show insights on ratings based on gender:
