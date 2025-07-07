@@ -46,7 +46,7 @@ departments?
     iii. Lagos: 250
 
 - Value: Count of Employees by Gender
--    
+     
     i. Male: 465
    
     ii. Female: 441
