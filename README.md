@@ -61,25 +61,26 @@ departments?
 
    ii. Human Resource: 82 (No gender-3, Male-38, Female-41)
   
-   iii. Services: 82
-
-   iv. Support: 81
-
-   v. Business Development: 81
+   iii. Services: 82 (No gender-3, Male-37, Female-42)
   
-   vi. Sales: 80
+   iv. Support: 81 (No gender-4, Male-42, Female-35)
   
-   vii. Engineering: 80
+   v. Business Development: 81 (No gender-3, Male-37, Female-41)
+    
+   vi. Sales: 80 (No gender-4, Male-40, Female-36)
   
-   viii. Training: 77
+   vii. Engineering: 80 (No gender-6, Male-36, Female-38)
   
-   ix. Research and Development: 74
-
-   x. Accounting: 67
+   viii. Training: 77 (No gender-3, Male-38, Female-36)
   
-   xi. Marketing: 65
+   ix. Research and Development: 74 (No gender-5, Male-31, Female-38)
   
-   xii. Legal: 88
+   x. Accounting: 67 (No gender-2, Male-37, Female-28)
+  
+   xi. Marketing: 65 (No gender-1, Male-33, Female-31)
+    
+   xii. Legal: 88 (No gender-5, Male-34, Female-49)
+  
   
 
 2. Show insights on ratings based on gender:
