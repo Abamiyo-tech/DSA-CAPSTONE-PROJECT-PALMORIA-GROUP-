@@ -81,9 +81,11 @@ departments?
    xi. Marketing: 65 (No gender-1, Male-33, Female-31)
     
    xii. Legal: 88 (No gender-5, Male-34, Female-49)
+  
 
   
   (c.) Visualize the overall gender distribution using a pie chart
+  
 
    i. Product Management: 89 (No gender-1.1%, Male-52.8%, Female-46.1%)
 
@@ -108,6 +110,19 @@ departments?
    xi. Marketing: 65 (No gender-1.5%, Male-47.7%, Female-50.8%)
     
    xii. Legal: 88 (No gender-5.7%, Male-38.6%, Female-55.7%)
+
+
+### Visualization:
+
+- Bar Chart: "Gender Distribution by Location"
+
+- Pie Chart: "Overall Gender Distribution"
+  
+
+### Measures:
+
+- Gender Count = COUNT ('Employee' [Gender])
+- Gender Percentage = DIVIDE (CALCULATE(COUNT('Employee'[Gender])),  CALCULATE(COUNT( 'Employee'[Gender]), ALL('Employee'[Gender])))
   
   
   
