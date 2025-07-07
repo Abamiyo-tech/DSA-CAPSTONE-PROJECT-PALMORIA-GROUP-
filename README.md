@@ -84,7 +84,7 @@ departments?
   
 
   
-  (c.) Visualize the overall gender distribution using a pie chart
+(c.) Visualize the overall gender distribution using a pie chart
   
 
    i. Product Management: 89 (No gender-1.1%, Male-52.8%, Female-46.1%)
@@ -125,6 +125,8 @@ departments?
 - Gender Percentage = DIVIDE (CALCULATE(COUNT('Employee'[Gender])),  CALCULATE(COUNT( 'Employee'[Gender]), ALL('Employee'[Gender])))
   
   
+
+
   
 
 2. Show insights on ratings based on gender:
