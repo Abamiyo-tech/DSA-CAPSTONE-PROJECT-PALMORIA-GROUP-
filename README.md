@@ -97,17 +97,17 @@ departments?
     
    vi. Sales: 80 (No gender-5%, Male-50%, Female-45%)
   
-   vii. Engineering: 80 (No gender-7.5%, Male-45%, Female-)
+   vii. Engineering: 80 (No gender-7.5%, Male-45%, Female-42.5%)
   
-   viii. Training: 77 (No gender-3, Male-38, Female-36)
+   viii. Training: 77 (No gender-3.9%, Male-49.4%, Female-46.8%)
   
-   ix. Research and Development: 74 (No gender-5, Male-31, Female-38)
+   ix. Research and Development: 74 (No gender-6.8%, Male-41.9%, Female-51.4%)
   
-   x. Accounting: 67 (No gender-2, Male-37, Female-28)
+   x. Accounting: 67 (No gender-4%, Male-55.2%, Female-41.8%)
   
-   xi. Marketing: 65 (No gender-1, Male-33, Female-31)
+   xi. Marketing: 65 (No gender-1.5%, Male-47.7%, Female-50.8%)
     
-   xii. Legal: 88 (No gender-5, Male-34, Female-49)
+   xii. Legal: 88 (No gender-5.7%, Male-38.6%, Female-55.7%)
   
   
   
