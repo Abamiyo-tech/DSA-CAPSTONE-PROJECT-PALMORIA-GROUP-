@@ -36,20 +36,27 @@ In the initial phase of the data cleaning and preparations, the following action
 1. What is the gender distribution in the organization? Distil to regions and
 departments?
 ### Gender Distribution Analysis:
+(a.) Create a bar chart:
+ - Axis: Location by Department
    
+    i. Kaduna: 361
+   
+    ii. Abuja: 335
+
+    iii. Lagos: 250
+
+- Value: Count of Employees by Gender
+-    
     i. Male: 465
    
     ii. Female: 441
    
     iii. No gender: 40
 
+(b.) Use a slicer to filter by region/department
 - Regions/Locations: Total employee in each location
   
-    i. Kaduna: 361
-   
-    ii. Abuja: 335
-
-    iii. Lagos: 250
+    
 
 - Departments: Total employee in each department
   
