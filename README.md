@@ -115,6 +115,7 @@ departments?
 ### Visualization:
 
 - Bar Chart: "Gender Distribution by Location"
+  
 
 - Pie Chart: "Overall Gender Distribution"
   
