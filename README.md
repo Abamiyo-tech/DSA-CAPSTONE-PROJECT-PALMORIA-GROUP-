@@ -52,10 +52,11 @@ departments?
     ii. Female: 441
    
     iii. No gender: 40
+  
 
-(b.) Use a slicer to filter by region/department
+(b.) Use a slicer to filter by Location/department
 
-- Regions/Departments: (No gender, Male, Female)
+- Location/Department: (No gender, Male, Female)
   
    i. Product Management: 89 (No gender-1, Male-47, Female-41)
 
@@ -80,6 +81,34 @@ departments?
    xi. Marketing: 65 (No gender-1, Male-33, Female-31)
     
    xii. Legal: 88 (No gender-5, Male-34, Female-49)
+
+  
+  (c.) Visualize the overall gender distribution using a pie chart
+
+   i. Product Management: 89 (No gender-1.1%, Male-52.8%, Female-46.1%)
+
+   ii. Human Resource: 82 (No gender-3.7%, Male-46.3%, Female-50%)
+  
+   iii. Services: 82 (No gender-3.6%, Male-45.1%, Female-51.2%)
+  
+   iv. Support: 81 (No gender-4.9%, Male-51.9%, Female-43.2%)
+  
+   v. Business Development: 81 (No gender-3.7%, Male-45.7%, Female-50.6%)
+    
+   vi. Sales: 80 (No gender-5%, Male-50%, Female-45%)
+  
+   vii. Engineering: 80 (No gender-7.5%, Male-45%, Female-)
+  
+   viii. Training: 77 (No gender-3, Male-38, Female-36)
+  
+   ix. Research and Development: 74 (No gender-5, Male-31, Female-38)
+  
+   x. Accounting: 67 (No gender-2, Male-37, Female-28)
+  
+   xi. Marketing: 65 (No gender-1, Male-33, Female-31)
+    
+   xii. Legal: 88 (No gender-5, Male-34, Female-49)
+  
   
   
 
