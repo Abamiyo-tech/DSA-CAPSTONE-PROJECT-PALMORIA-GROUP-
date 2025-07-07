@@ -29,13 +29,13 @@ The primary data source used here is Palmoria Group emp-data.csv and Palmoria Gr
 In the initial phase of the data cleaning and preparations, the following actions were performed. 
 - Data loading and inspection; The company's data was uploaded and inspected to transform
 - Handling missing variables; On gender Column, undisclosed gender was replaced by a generic gender status 'No gender'.
-- Data Cleaning and formatting; On Salary and Department columns, Employees with no salary and department were taken out.
+- Data Cleaning and formatting; Employees without salaries and departments indicated as "NULL" were taken out.
 
 ## Exploratory Data Analysis (EDA):
 
 1. What is the gender distribution in the organization? Distil to regions and
 departments?
- - Gender Distribution:
+### Gender Distribution Analysis:
    
     i. Male: 465
    
