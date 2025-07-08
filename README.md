@@ -86,19 +86,19 @@ departments?
   
 (c.) Visualize the overall gender distribution using a pie chart
   
-     i. Product Management: 89 (No gender-1.1%, Male-52.8%, Female-46.1%)
+     i.  Product Management: 89 (No gender-1.1%, Male-52.8%, Female-46.1%)
 
-     ii. Human Resource: 82 (No gender-3.7%, Male-46.3%, Female-50%)
+     ii.  Human Resource: 82 (No gender-3.7%, Male-46.3%, Female-50%)
   
-     iii. Services: 82 (No gender-3.6%, Male-45.1%, Female-51.2%)
+     iii.  Services: 82 (No gender-3.6%, Male-45.1%, Female-51.2%)
   
-     iv. Support: 81 (No gender-4.9%, Male-51.9%, Female-43.2%)
+     iv.  Support: 81 (No gender-4.9%, Male-51.9%, Female-43.2%)
   
-     v. Business Development: 81 (No gender-3.7%, Male-45.7%, Female-50.6%)
+     v.  Business Development: 81 (No gender-3.7%, Male-45.7%, Female-50.6%)
     
-     vi. Sales: 80 (No gender-5%, Male-50%, Female-45%)
+     vi.  Sales: 80 (No gender-5%, Male-50%, Female-45%)
   
-     vii. Engineering: 80 (No gender-7.5%, Male-45%, Female-42.5%)
+     vii.  Engineering: 80 (No gender-7.5%, Male-45%, Female-42.5%)
   
      viii. Training: 77 (No gender-3.9%, Male-49.4%, Female-46.8%)
   
