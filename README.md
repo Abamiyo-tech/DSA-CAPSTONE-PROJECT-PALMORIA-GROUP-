@@ -116,8 +116,11 @@ Region/Department:
   
 
   
-(c.) Visualize the overall gender distribution using a pie chart
-  
+(c.) Visualize the overall gender distribution using a pie chart 
+
+
+  ![Overall Gender distribution (Pie Chart)](https://github.com/user-attachments/assets/943dd43e-9d83-4625-b344-6df7cf4718ae)
+
      i.  Product Management: 89 (No gender-1.1%, Male-52.8%, Female-46.1%)
 
      ii.  Human Resource: 82 (No gender-3.7%, Male-46.3%, Female-50%)
