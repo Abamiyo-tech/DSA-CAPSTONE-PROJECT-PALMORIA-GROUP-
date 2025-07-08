@@ -44,16 +44,16 @@ departments?
 
 Region/Department: 
   
-    i. Product Management: 89 
-
-    ii. Human Resource: 82 
-  
-    iii. Services: 82 
-  
-    iv. Support: 81 
-  
-    v. Business Development: 81 
+     
+    i. Product Management: 89
+   
+    ii. Human Resource: 82
+     
+    iii. Services: 82
     
+    iv. Support: 81
+    
+     v. Business Development: 81 
     vi. Sales: 80 
   
     vii. Engineering: 80 
