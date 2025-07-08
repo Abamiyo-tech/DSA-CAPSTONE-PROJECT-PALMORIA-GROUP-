@@ -142,24 +142,26 @@ Region/Department:
 
 2. Show insights on ratings based on gender:
    
-    -Male: 49%
+   (a.)  Create a histogram/box plot:
    
-    -Female: 46%
+         -Male: 49%
    
-    -No gender: 4%
+         -Female: 46%
+   
+         -No gender: 4%
     
       
-3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
+4. Analyse the company’s salary structure. Identify if there is a gender pay gap. If
 there is, identify the department and regions that should be the focus of
 management:
 Based on the value distribution of the salary column there is no gender pay gap, employees are payed based on assigned roles and not gender.
 
-4. A recent regulation was adopted which requires manufacturing companies to pay
+5. A recent regulation was adopted which requires manufacturing companies to pay
 employees a minimum of $90,000. Does Palmoria meet this requirement? No, it does not meet the requirement because some of the employees received below $90,000.
 
-5. Show the pay distribution of employees grouped by a band of $10,000. For example:
+6. Show the pay distribution of employees grouped by a band of $10,000. For example:
 
-6. How many employees fall into a band of
+7. How many employees fall into a band of
    - $10,000 – $20,000,none
    - $20,000 – $30,000,none
 
