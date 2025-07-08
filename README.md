@@ -72,15 +72,15 @@ departments?
   
     vii. Engineering: 80 (No gender-6, Male-36, Female-38)
   
-    viii. Training: 77 (No gender-3, Male-38, Female-36)
+   viii. Training: 77 (No gender-3, Male-38, Female-36)
   
     ix. Research and Development: 74 (No gender-5, Male-31, Female-38)
   
-    x. Accounting: 67 (No gender-2, Male-37, Female-28)
+   x. Accounting: 67 (No gender-2, Male-37, Female-28)
   
     xi. Marketing: 65 (No gender-1, Male-33, Female-31)
     
-    xii. Legal: 88 (No gender-5, Male-34, Female-49)
+  xii. Legal: 88 (No gender-5, Male-34, Female-49)
   
 
   
