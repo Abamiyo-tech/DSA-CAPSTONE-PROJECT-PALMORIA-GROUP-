@@ -114,10 +114,16 @@ departments?
 ### Visualization:
 
 - Bar Chart: "Gender Distribution by Location"
+
   
+  ![BAR CHART AND PIE CHART](https://github.com/user-attachments/assets/aa6775b8-31b5-43de-8a2c-b6db47b2993a)
+
 
 - Pie Chart: "Overall Gender Distribution"
+
   
+  ![GENDER DISTRIBUTION BY PIE CHART](https://github.com/user-attachments/assets/029867a5-7579-46c7-afff-7cdd7ca85d34)
+
 
 ### Measures:
 
