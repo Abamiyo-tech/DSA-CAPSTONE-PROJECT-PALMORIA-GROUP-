@@ -37,7 +37,7 @@ In the initial phase of the data cleaning and preparations, the following action
 departments?
 ### Gender Distribution Analysis:
 (a.) Create a bar chart:
- - Axis: Location by Department
+ - Axis: Region by Department
    
     i. Kaduna: 361
    
@@ -54,7 +54,7 @@ departments?
     iii. No gender: 40
   
 
-(b.) Use a slicer to filter by Location/department
+(b.) Use a slicer to filter by Region/department
 
 - Location/Department: (No gender, Male, Female)
   
