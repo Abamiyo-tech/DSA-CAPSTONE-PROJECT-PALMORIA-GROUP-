@@ -42,6 +42,37 @@ departments?
    
 ![Count Region by Department](https://github.com/user-attachments/assets/2f28c371-039f-4697-9aab-5320a79e4962)
 
+Region/Department: 
+  
+    i. Product Management: 89 
+
+    ii. Human Resource: 82 
+  
+    iii. Services: 82 
+  
+    iv. Support: 81 
+  
+    v. Business Development: 81 
+    
+    vi. Sales: 80 
+  
+    vii. Engineering: 80 
+  
+   viii. Training: 77 
+  
+    ix. Research and Development: 74 
+  
+   x. Accounting: 67 
+  
+    xi. Marketing: 65 
+    
+  xii. Legal: 88 
+  
+
+  
+
+
+
 - Value: Count of Employees by Gender
 
   
@@ -56,7 +87,7 @@ departments?
 
 (b.) Use a slicer to filter by Region/department
 
-- Location/Department: (No gender, Male, Female)
+- Region/Department: (No gender, Male, Female)
   
     i. Product Management: 89 (No gender-1, Male-47, Female-41)
 
