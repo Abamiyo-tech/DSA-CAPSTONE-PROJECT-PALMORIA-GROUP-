@@ -39,14 +39,14 @@ departments?
 (a.) Create a bar chart:
  - Axis: Region by Department
    
-    i. Kaduna: 361
    
-    ii. Abuja: 335
-
-    iii. Lagos: 250
+![Count Region by Department](https://github.com/user-attachments/assets/2f28c371-039f-4697-9aab-5320a79e4962)
 
 - Value: Count of Employees by Gender
-     
+
+  
+     ![Count Employee by Gender](https://github.com/user-attachments/assets/c05fd3a1-d0e0-408b-a532-4459fea66341)
+
     i. Male: 465
    
     ii. Female: 441
