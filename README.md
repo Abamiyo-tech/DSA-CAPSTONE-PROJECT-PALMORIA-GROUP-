@@ -115,51 +115,21 @@ Region/Department:
   xii. Legal: 88 (No gender-5, Male-34, Female-49)
   
 
-  
-(c.) Visualize the overall gender distribution using a pie chart 
+### Visualization  
+- Visualize the overall gender distribution using a pie chart 
 
 
   ![Overall Gender distribution (Pie Chart)](https://github.com/user-attachments/assets/943dd43e-9d83-4625-b344-6df7cf4718ae)
 
-     i.  Product Management: 89 (No gender-1.1%, Male-52.8%, Female-46.1%)
-
-     ii.  Human Resource: 82 (No gender-3.7%, Male-46.3%, Female-50%)
-  
-     iii.  Services: 82 (No gender-3.6%, Male-45.1%, Female-51.2%)
-  
-     iv.  Support: 81 (No gender-4.9%, Male-51.9%, Female-43.2%)
-  
-     v.  Business Development: 81 (No gender-3.7%, Male-45.7%, Female-50.6%)
-    
-     vi.  Sales: 80 (No gender-5%, Male-50%, Female-45%)
-  
-     vii.  Engineering: 80 (No gender-7.5%, Male-45%, Female-42.5%)
-  
-     viii. Training: 77 (No gender-3.9%, Male-49.4%, Female-46.8%)
-  
-     ix. Research and Development: 74 (No gender-6.8%, Male-41.9%, Female-51.4%)
-  
-     x. Accounting: 67 (No gender-4%, Male-55.2%, Female-41.8%)
-  
-     xi. Marketing: 65 (No gender-1.5%, Male-47.7%, Female-50.8%)
-    
-     xii. Legal: 88 (No gender-5.7%, Male-38.6%, Female-55.7%)
 
 
-### Visualization:
 
 - Bar Chart: "Gender Distribution by Location"
 
-  
-  ![BAR CHART AND PIE CHART](https://github.com/user-attachments/assets/aa6775b8-31b5-43de-8a2c-b6db47b2993a)
-
-
-- Pie Chart: "Overall Gender Distribution"
+  ![Gender Distribution by region Bar Chart](https://github.com/user-attachments/assets/36ff4598-abd5-42bc-8aa9-fefb6390f288)
 
   
-  ![GENDER DISTRIBUTION BY PIE CHART](https://github.com/user-attachments/assets/029867a5-7579-46c7-afff-7cdd7ca85d34)
-
-
+  
 ### Measures:
 
 - Gender Count = COUNT ('Employee' [Gender])
