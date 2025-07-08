@@ -36,6 +36,7 @@ In the initial phase of the data cleaning and preparations, the following action
 1. What is the gender distribution in the organization? Distil to regions and
 departments?
 ### Gender Distribution Analysis:
+
 (a.) Create a bar chart:
  - Axis: Region by Department
    
@@ -53,23 +54,23 @@ Region/Department:
     
     iv. Support: 81
     
-     v. Business Development: 81 
+    v. Business Development: 81 
+    
     vi. Sales: 80 
   
     vii. Engineering: 80 
   
-   viii. Training: 77 
+    viii. Training: 77 
   
     ix. Research and Development: 74 
   
-   x. Accounting: 67 
+    x. Accounting: 67 
   
     xi. Marketing: 65 
     
-  xii. Legal: 88 
+   xii. Legal: 88 
   
 
-  
 
 
 
